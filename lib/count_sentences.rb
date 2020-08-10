@@ -18,6 +18,6 @@ class String
     self.split(/[.?!]/).reject do |element|
       element.empty?
     self.count
-  end
+    end
   end
 end
