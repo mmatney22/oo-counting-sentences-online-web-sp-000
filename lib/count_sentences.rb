@@ -19,4 +19,5 @@ class String
       element.empty?
     self.count
   end
+  end
 end
